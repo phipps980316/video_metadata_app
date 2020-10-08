@@ -3,6 +3,9 @@
    <application
         android:label="video_metadata_task"
         android:icon="@mipmap/ic_launcher">
+       <meta-data
+           android:name="com.google.android.geo.API_KEY"
+           android:value="AIzaSyBXXAs1r6saxFk2bt1F-YlVD7f2Pmjfs2M"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
