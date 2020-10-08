@@ -3,7 +3,7 @@
 Testing Instructions
 
 
-Project is openable in android studio to run in an android emulator, flutter must be installed on the machine
+Project is openable in android studio to run in an android emulator, flutter must be installed on the machine.
 
 App will open and the data will start to download when the "Get Data" button is pressed.
 
